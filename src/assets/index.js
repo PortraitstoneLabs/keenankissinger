@@ -10,6 +10,7 @@ import keenshot from "./keenshot.png";
    import instagram from "./instagram.svg";
    import linkedin from "./linkedin.svg";
    import tiktok from "./tiktok.svg";
+   import github from "./github.svg";
    import abundance from "./computhropology/abundance.png";
    import merkafakalishma from "./computhropology/merkafakalishma.png";
    import motorzanon from "./computhropology/motorzanon.png";
@@ -29,6 +30,7 @@ export {
     twitter,
     linkedin,
     tiktok,
+    github,
     portlogo,
     menu,
     close,

@@ -5,6 +5,7 @@ import {
   twitter,
   linkedin,
   tiktok,
+  github,
   abundance,
   merkafakalishma,
   motorzanon,
@@ -38,6 +39,11 @@ export const socialMedia = [
   //   icon: linkedin,
   //   link: "https://www.linkedin.com/in/khristophe-keen-46270394/",
   // },
+    {
+    id: "social-media-5",
+    icon: github,
+    link: "https://github.com/PortraitstoneLabs/keenankissinger",
+  },
 ];
 
 export const navLinks = [
