@@ -68,7 +68,7 @@ const Contact = () => {
 
           showAlert({
             show: true,
-            text: "I didn't receive your message 😢",
+            text: "I didn't receive your message 😢 NEW global CrowdStrike outage",
             type: "danger",
           });
         }
@@ -110,7 +110,7 @@ const Contact = () => {
               type='email'
               name='email'
               className='input'
-              placeholder='keenankissinger@gmail.com'
+              placeholder='info@keenankissinger.com'
               required
               value={form.email}
               onChange={handleChange}
