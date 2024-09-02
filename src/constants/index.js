@@ -29,16 +29,16 @@ export const socialMedia = [
     icon: facebook,
     link: "https://www.facebook.com/profile.php?id=61561728984881",
   },
-  // {
-  //   id: "social-media-3",
-  //   icon: twitter,
-  //   link: "https://www.twitter.com/",
-  // },
-  // {
-  //   id: "social-media-4",
-  //   icon: linkedin,
-  //   link: "https://www.linkedin.com/in/khristophe-keen-46270394/",
-  // },
+  {
+    id: "social-media-3",
+    icon: twitter,
+    link: "https://x.com/KeenanKissinger",
+  },
+  {
+    id: "social-media-4",
+    icon: linkedin,
+    link: "https://www.linkedin.com/in/keenan-kissinger-9617aa326/",
+  },
     {
     id: "social-media-5",
     icon: github,
