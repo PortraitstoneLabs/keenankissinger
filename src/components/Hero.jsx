@@ -46,7 +46,7 @@ const Hero = () => {
         className="flex flex-col items-center opacity-0 translate-y-20"
       >
         <a href="#contact" className="btn">Multidimensional Plastic Magic</a>
-        <p className="font-normal text-xl">Print Ur Story</p>
+        <p className="font-normal text-xl">KEEP UPDATED</p>
       </div>
     </section>
     </section>

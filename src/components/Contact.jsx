@@ -91,7 +91,7 @@ const Contact = () => {
           className='w-full flex flex-col gap-7 mt-14'
         >
           <label className='text-black-500 font-semibold'>
-            Nameless
+            Ur Name
             <input
               type='text'
               name='name'
@@ -119,12 +119,12 @@ const Contact = () => {
             />
           </label>
           <label className='text-black-500 font-semibold'>
-            Our Joke
+            Plug In
             <textarea
               name='message'
               rows='4'
               className='textarea'
-              placeholder='tag my canvas here...'
+              placeholder='find out where Keenan Kissinger is performing next...'
               value={form.message}
               onChange={handleChange}
               onFocus={handleFocus}
