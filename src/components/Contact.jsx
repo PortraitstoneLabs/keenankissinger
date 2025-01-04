@@ -124,7 +124,7 @@ const Contact = () => {
               name='message'
               rows='4'
               className='textarea'
-              placeholder='find out where Keenan Kissinger is performing next...'
+              placeholder='Join me at The Comedy Chateau Club auditions held every Sunday at 5:30pm'
               value={form.message}
               onChange={handleChange}
               onFocus={handleFocus}
