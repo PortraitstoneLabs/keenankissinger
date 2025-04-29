@@ -37,7 +37,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/keenan-kissinger-9617aa326/",
+    link: "https://www.linkedin.com/in/khristophe-keen-keenan-kissinger/",
   },
     {
     id: "social-media-5",
